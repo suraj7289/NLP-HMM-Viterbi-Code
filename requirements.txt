@@ -1,0 +1,6 @@
+1. Keep below 3 files (provided in zip file) in same folder - 
+   a) hmmmodel.txt
+   b) HMM_Viterbi_Code.py 
+   c) input.txt
+
+Command to run - python HMM_Viterbi_Code.py input.txt
